@@ -1,1 +1,1 @@
-# aula1-py-atividade-par-ou-impar
+# Repositório de atividades
